@@ -1,0 +1,13 @@
+C:\Users\Bla\source\repos\01.LinqTuition\18.LinqReverse\bin\Debug\netcoreapp3.1\18.LinqReverse.exe
+C:\Users\Bla\source\repos\01.LinqTuition\18.LinqReverse\bin\Debug\netcoreapp3.1\18.LinqReverse.deps.json
+C:\Users\Bla\source\repos\01.LinqTuition\18.LinqReverse\bin\Debug\netcoreapp3.1\18.LinqReverse.runtimeconfig.json
+C:\Users\Bla\source\repos\01.LinqTuition\18.LinqReverse\bin\Debug\netcoreapp3.1\18.LinqReverse.runtimeconfig.dev.json
+C:\Users\Bla\source\repos\01.LinqTuition\18.LinqReverse\bin\Debug\netcoreapp3.1\18.LinqReverse.dll
+C:\Users\Bla\source\repos\01.LinqTuition\18.LinqReverse\bin\Debug\netcoreapp3.1\18.LinqReverse.pdb
+C:\Users\Bla\source\repos\01.LinqTuition\18.LinqReverse\obj\Debug\netcoreapp3.1\18.LinqReverse.csprojAssemblyReference.cache
+C:\Users\Bla\source\repos\01.LinqTuition\18.LinqReverse\obj\Debug\netcoreapp3.1\18.LinqReverse.AssemblyInfoInputs.cache
+C:\Users\Bla\source\repos\01.LinqTuition\18.LinqReverse\obj\Debug\netcoreapp3.1\18.LinqReverse.AssemblyInfo.cs
+C:\Users\Bla\source\repos\01.LinqTuition\18.LinqReverse\obj\Debug\netcoreapp3.1\18.LinqReverse.csproj.CoreCompileInputs.cache
+C:\Users\Bla\source\repos\01.LinqTuition\18.LinqReverse\obj\Debug\netcoreapp3.1\18.LinqReverse.dll
+C:\Users\Bla\source\repos\01.LinqTuition\18.LinqReverse\obj\Debug\netcoreapp3.1\18.LinqReverse.pdb
+C:\Users\Bla\source\repos\01.LinqTuition\18.LinqReverse\obj\Debug\netcoreapp3.1\18.LinqReverse.genruntimeconfig.cache
